@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="year">Year</string>
+    <string name="title">Title</string>
+    <string name="runtime">Runtime</string>
+    <string name="released">Released</string>
+    <string name="description">Description</string>
+    <string name="send">Далее</string>
+</resources>
